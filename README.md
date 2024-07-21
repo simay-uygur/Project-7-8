@@ -10,7 +10,7 @@ If a film is not available, it can be requested.
 
 The class diagram is
 
-![First diagram]()
+![First diagram](https://github.com/simay-uygur/Project-7-8/blob/main/imageForProject7.png)
 
 
 # Project 8
@@ -28,4 +28,4 @@ The simulator uses a "clock" to simulate the passage of real time and to timesta
 
 The class diagram is 
 
-![The second diagram]()
+![The second diagram](https://github.com/simay-uygur/Project-7-8/blob/main/imageForProject8.png)
